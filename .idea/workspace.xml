@@ -4,13 +4,43 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="626ca085-f178-481e-9a2d-0e015f7118a4" name="Changes" comment="POM: added dependencies" />
+    <list default="true" id="626ca085-f178-481e-9a2d-0e015f7118a4" name="Changes" comment="POM: added dependencies">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/slimoki/aktualnosci/AktualnosciPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/slimoki/aktualnosci/AktualnosciTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/slimoki/aktualnosci/AktualnościConsts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/slimoki/badania/BadaniaConsts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/slimoki/badania/BadaniaPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/slimoki/badania/BadaniaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/slimoki/body/BodyConsts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/slimoki/body/BodyPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/slimoki/body/BodyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/slimoki/header/HeaderConsts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/slimoki/header/HeaderPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/slimoki/header/HeaderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/com.slimoki.header/HeaderTest_verifyIfAktualnosciLoaded,json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/ResourceFileTest.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/ResourceFileTest.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -26,7 +56,6 @@
   <component name="ProjectId" id="2KmvzfzdfHN7594TKwl5wu4j2Jb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
@@ -34,12 +63,21 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "last_opened_file_path": "D:/gitHub/test-repository/test-repository/src/test/java/com/slimoki/header",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "terminal"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\gitHub\test-repository\test-repository\src\test\java\com\slimoki\header" />
+      <recent name="D:\gitHub\test-repository\test-repository\src\test\java\com\slimoki\body" />
+      <recent name="D:\gitHub\test-repository\test-repository\src\test" />
+      <recent name="D:\gitHub\test-repository\test-repository\src\test\java\com\slimoki\badania" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -63,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674595280328</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="POM: added dependencies">
+      <created>1675189655233</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675189655233</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
